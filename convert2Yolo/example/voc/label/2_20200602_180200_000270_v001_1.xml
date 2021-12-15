@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+    <ver>v001_1</ver>
+    <folder>2</folder>
+    <filename>2_20200602_180200_000270.jpg</filename>
+    <path>C:\Users\KATECH-02\Desktop\20200602_검수요청_성선영\안정희_도심로20200602\안정희_도심로20200602 -작업본\20200602_180200\2\</path>
+    <source>
+        <database>KATECH_DB</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+  <index_max>3</index_max>
+    <object>
+        <name>RoadMark_Crosswalk</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1111</xmin>
+            <ymin>692</ymin>
+            <xmax>1455</xmax>
+            <ymax>731</ymax>
+        </bndbox>
+        <index>3</index>
+        <review_code>C_v001</review_code>
+    </object>
+    <object>
+        <name>Vehicle_Unknown</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>494</xmin>
+            <ymin>508</ymin>
+            <xmax>594</xmax>
+            <ymax>598</ymax>
+        </bndbox>
+        <index>4</index>
+        <review_code>C_v001</review_code>
+    </object>
+    <object>
+        <name>Vehicle_Car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>409</xmin>
+            <ymin>561</ymin>
+            <xmax>473</xmax>
+            <ymax>597</ymax>
+        </bndbox>
+        <index>5</index>
+        <review_code>C_v001</review_code>
+    </object>
+</annotation>
+

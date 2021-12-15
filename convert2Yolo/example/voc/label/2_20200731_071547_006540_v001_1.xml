@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_071547_006540.jpg</filename>
+  <path>C:\Users\A\Desktop\검수\20200731_원주_손지영\20200731_원주_손지영\20200731_071547\2\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>1</index_max>
+  <object>
+    <name>Vehicle_Bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>327</ymin>
+      <xmax>221</xmax>
+      <ymax>439</ymax>
+    </bndbox>
+    <index>4</index>
+    <review_code>C_v001</review_code>
+  </object>
+</annotation>

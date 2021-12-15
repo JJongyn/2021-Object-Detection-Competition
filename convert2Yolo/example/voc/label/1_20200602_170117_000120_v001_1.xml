@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotation>
+    <ver>v001_1</ver>
+    <folder>1</folder>
+    <filename>1_20200602_170117_000120.jpg</filename>
+    <path>C:\Users\KATECH-01\Desktop\0602도심로\임향숙_도심로20200602_다예수정완료\임향숙_도심로20200602\임향숙_도심로20200602\20200602_170117\1\</path>
+    <source>
+        <database>KATECH_DB</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+  <index_max>2</index_max>
+    <object>
+        <name>Pedestrian_Pedestrian</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1530</xmin>
+            <ymin>613</ymin>
+            <xmax>1583</xmax>
+            <ymax>825</ymax>
+        </bndbox>
+        <index>1</index>
+        <review_code>C_v001</review_code>
+    </object>
+    <object>
+        <name>RoadMark_Crosswalk</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>867</ymin>
+            <xmax>1919</xmax>
+            <ymax>1079</ymax>
+        </bndbox>
+        <index>2</index>
+        <review_code>C_v001</review_code>
+    </object>
+</annotation>
+

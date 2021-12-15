@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>1</folder>
+  <filename>1_20200717_144359_000090.jpg</filename>
+  <path>C:\Users\IT1706001\Documents\데이터라벨링 검수\8차_세종4차\작업자4.기정헌\4차수 20201111\20200717_144359\1\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>2</index_max>
+  <object>
+    <name>Vehicle_Unknown</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1488</xmin>
+      <ymin>484</ymin>
+      <xmax>1647</xmax>
+      <ymax>518</ymax>
+    </bndbox>
+    <index>2</index>
+    <review_code>C_v001</review_code>
+  </object>
+  <object>
+    <name>Vehicle_Bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1807</xmin>
+      <ymin>398</ymin>
+      <xmax>1919</xmax>
+      <ymax>520</ymax>
+    </bndbox>
+    <index>3</index>
+    <review_code>C_v001</review_code>
+  </object>
+</annotation>

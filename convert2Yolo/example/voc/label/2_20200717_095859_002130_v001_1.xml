@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200717_095859_002130.jpg</filename>
+  <path>C:\Users\KATECH-02\Desktop\검수완료\20200717_수원_성선영_4\20200717_수원_오연주\20200717_095859\2\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>2</index_max>
+  <object>
+    <name>Vehicle_Car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>507</ymin>
+      <xmax>329</xmax>
+      <ymax>739</ymax>
+    </bndbox>
+    <index>6</index>
+    <review_code>C_v001</review_code>
+  </object>
+  <object>
+    <name>TrafficSign_Else</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1603</xmin>
+      <ymin>454</ymin>
+      <xmax>1629</xmax>
+      <ymax>496</ymax>
+    </bndbox>
+    <index>7</index>
+    <review_code>C_v001</review_code>
+  </object>
+</annotation>

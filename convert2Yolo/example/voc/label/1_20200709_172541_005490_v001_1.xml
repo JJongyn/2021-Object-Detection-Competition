@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>1</folder>
+  <filename>1_20200709_172541_005490.jpg</filename>
+  <path>F:\1000.김민서\1.알바\1.검수 프로그램\2.검수용 자료\5.201013_서울1차_김민서(수정)\4.임수현\20200709_172541\1\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>2</index_max>
+  <object>
+    <name>Vehicle_Car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1086</xmin>
+      <ymin>574</ymin>
+      <xmax>1176</xmax>
+      <ymax>642</ymax>
+    </bndbox>
+    <index>4</index>
+    <review_code>C_v001</review_code>
+  </object>
+  <object>
+    <name>Vehicle_Car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>115</xmin>
+      <ymin>510</ymin>
+      <xmax>333</xmax>
+      <ymax>610</ymax>
+    </bndbox>
+    <index>6</index>
+    <review_code>C_v001</review_code>
+  </object>
+</annotation>

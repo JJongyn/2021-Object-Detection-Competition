@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200717_095333_004680.jpg</filename>
+  <path>F:\검수파일\20200717_수원광주_12명\완료\20200717_김영은(완)\20200717_095333\2\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>2</index_max>
+  <object>
+    <name>Vehicle_Bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1048</xmin>
+      <ymin>473</ymin>
+      <xmax>1196</xmax>
+      <ymax>583</ymax>
+    </bndbox>
+    <index>1</index>
+    <review_code>C_v001</review_code>
+  </object>
+  <object>
+    <name>Vehicle_Car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>609</xmin>
+      <ymin>547</ymin>
+      <xmax>637</xmax>
+      <ymax>590</ymax>
+    </bndbox>
+    <index>2</index>
+    <review_code>C_v001</review_code>
+  </object>
+</annotation>

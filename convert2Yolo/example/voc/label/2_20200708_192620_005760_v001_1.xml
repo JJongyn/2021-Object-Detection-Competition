@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200708_192620_005760.jpg</filename>
+  <path>F:\검수파일\tqs\1116\작업자1.허정은-20201116T113919Z-001\작업자1.허정은\7차수 20201116\20200708_192620\2\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>1</index_max>
+  <object>
+    <name>Vehicle_Unknown</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>795</xmin>
+      <ymin>513</ymin>
+      <xmax>832</xmax>
+      <ymax>537</ymax>
+    </bndbox>
+    <index>1</index>
+    <review_code>C_v001</review_code>
+  </object>
+</annotation>

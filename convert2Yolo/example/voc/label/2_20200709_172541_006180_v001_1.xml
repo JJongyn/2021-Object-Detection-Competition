@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200709_172541_006180.jpg</filename>
+  <path>E:\1000.김민서\1.알바\1.검수 프로그램\2.검수용 자료\5.201013_서울1차_김민서(수정)\5.김혜랑\20200709_172541\2\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>2</index_max>
+  <object>
+    <name>Vehicle_Unknown</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>962</xmin>
+      <ymin>514</ymin>
+      <xmax>995</xmax>
+      <ymax>551</ymax>
+    </bndbox>
+    <index>4</index>
+    <review_code>C_v001</review_code>
+  </object>
+  <object>
+    <name>TrafficSign_Else</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1470</xmin>
+      <ymin>440</ymin>
+      <xmax>1519</xmax>
+      <ymax>501</ymax>
+    </bndbox>
+    <index>5</index>
+    <review_code>C_v001</review_code>
+  </object>
+</annotation>

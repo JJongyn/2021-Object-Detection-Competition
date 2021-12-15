@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_075018_003570.jpg</filename>
+  <path>D:\ADAS\검수작업\20201030_서울6차_고지연\20201030_서울_박봉경_934\20200731_075018\2\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>2</index_max>
+  <object>
+    <name>Vehicle_Car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>582</xmin>
+      <ymin>546</ymin>
+      <xmax>653</xmax>
+      <ymax>590</ymax>
+    </bndbox>
+    <index>5</index>
+    <review_code>C_v001</review_code>
+  </object>
+  <object>
+    <name>Vehicle_Unknown</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>637</xmin>
+      <ymin>521</ymin>
+      <xmax>713</xmax>
+      <ymax>578</ymax>
+    </bndbox>
+    <index>6</index>
+    <review_code>C_v001</review_code>
+  </object>
+</annotation>

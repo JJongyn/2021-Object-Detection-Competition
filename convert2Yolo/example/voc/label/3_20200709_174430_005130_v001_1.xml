@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>3</folder>
+  <filename>3_20200709_174430_005130.jpg</filename>
+  <path>E:\검수자료\201013_서울1차_정유림\정유림\15.이병욱\검수요청\20200709_174430\3\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>2</index_max>
+  <object>
+    <name>Vehicle_Car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>738</xmin>
+      <ymin>538</ymin>
+      <xmax>824</xmax>
+      <ymax>601</ymax>
+    </bndbox>
+    <index>5</index>
+    <review_code>C_v001</review_code>
+  </object>
+  <object>
+    <name>Vehicle_Unknown</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>881</xmin>
+      <ymin>443</ymin>
+      <xmax>1016</xmax>
+      <ymax>636</ymax>
+    </bndbox>
+    <index>6</index>
+    <review_code>C_v001</review_code>
+  </object>
+</annotation>

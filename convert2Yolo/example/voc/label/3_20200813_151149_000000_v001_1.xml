@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>3</folder>
+  <filename>3_20200813_151149_000000.jpg</filename>
+  <path>C:\10. 검수데이타\20200813_수원광주_5명\20200813_수원_김영은\20200813_151149\3\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>2</index_max>
+  <object>
+    <name>Vehicle_Car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>546</ymin>
+      <xmax>219</xmax>
+      <ymax>712</ymax>
+    </bndbox>
+    <index>1</index>
+    <review_code>C_v001</review_code>
+  </object>
+  <object>
+    <name>Vehicle_Car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1086</xmin>
+      <ymin>524</ymin>
+      <xmax>1186</xmax>
+      <ymax>604</ymax>
+    </bndbox>
+    <index>2</index>
+    <review_code>C_v001</review_code>
+  </object>
+</annotation>

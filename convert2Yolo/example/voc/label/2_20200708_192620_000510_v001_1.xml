@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200708_192620_000510.jpg</filename>
+  <path>F:\검수파일\tqs\1116\작업자1.허정은-20201116T113919Z-001\작업자1.허정은\7차수 20201116\20200708_192620\2\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>2</index_max>
+  <object>
+    <name>Vehicle_Car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>654</xmin>
+      <ymin>524</ymin>
+      <xmax>798</xmax>
+      <ymax>627</ymax>
+    </bndbox>
+    <index>1</index>
+    <review_code>C_v001</review_code>
+  </object>
+  <object>
+    <name>Vehicle_Car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>950</xmin>
+      <ymin>527</ymin>
+      <xmax>997</xmax>
+      <ymax>569</ymax>
+    </bndbox>
+    <index>2</index>
+    <review_code>C_v001</review_code>
+  </object>
+</annotation>

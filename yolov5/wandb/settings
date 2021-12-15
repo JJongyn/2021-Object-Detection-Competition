@@ -1,0 +1,5 @@
+[default]
+entity = jjong
+project = contest_1210
+base_url = https://api.wandb.ai
+

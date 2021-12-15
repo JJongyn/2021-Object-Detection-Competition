@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200717_095859_002190.jpg</filename>
+  <path>C:\Users\KATECH-02\Desktop\검수완료\20200717_수원_성선영_4\20200717_수원_오연주\20200717_095859\2\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>1</index_max>
+  <object>
+    <name>Vehicle_Unknown</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>585</xmin>
+      <ymin>512</ymin>
+      <xmax>659</xmax>
+      <ymax>556</ymax>
+    </bndbox>
+    <index>7</index>
+    <review_code>C_v001</review_code>
+  </object>
+</annotation>
