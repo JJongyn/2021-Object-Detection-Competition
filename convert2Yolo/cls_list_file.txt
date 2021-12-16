@@ -1,0 +1,16 @@
+Vehicle_Car
+Vehicle_Bus
+Vehicle_Motorcycle
+Vehicle_Unknown
+Pedestrian_Pedestrian
+Pedestrian_Bicycle
+TrafficLight_Red
+TrafficLight_Yellow
+TrafficLight_Green
+TrafficLight_Arrow
+TrafficLight_RedArrow
+TrafficLight_YellowArrow
+TrafficLight_GreenArrow
+TrafficSign_Speed
+TrafficSign_Else
+

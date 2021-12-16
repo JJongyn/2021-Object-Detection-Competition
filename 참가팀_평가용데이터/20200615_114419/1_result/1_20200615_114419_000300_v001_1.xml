@@ -1,0 +1,32 @@
+<annotation>
+  <object>
+    <name>Pedestrian</name>
+    <bndbox>
+      <xmin>1377</xmin>
+      <ymin>527</ymin>
+      <xmax>1563</xmax>
+      <ymax>704</ymax>
+    </bndbox>
+    <confidence>0.250776</confidence>
+  </object>
+  <object>
+    <name>Pedestrian</name>
+    <bndbox>
+      <xmin>190</xmin>
+      <ymin>432</ymin>
+      <xmax>215</xmax>
+      <ymax>472</ymax>
+    </bndbox>
+    <confidence>0.411165</confidence>
+  </object>
+  <object>
+    <name>TrafficSign</name>
+    <bndbox>
+      <xmin>136</xmin>
+      <ymin>334</ymin>
+      <xmax>157</xmax>
+      <ymax>381</ymax>
+    </bndbox>
+    <confidence>0.780017</confidence>
+  </object>
+</annotation>

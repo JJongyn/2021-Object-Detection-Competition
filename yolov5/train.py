@@ -49,8 +49,8 @@ from utils.loss import ComputeLoss
 from utils.metrics import fitness
 from utils.plots import plot_evolve, plot_labels
 from utils.torch_utils import EarlyStopping, ModelEMA, de_parallel, select_device, torch_distributed_zero_first
-import wandb
-wandb.init(project="final")
+#import wandb
+#wandb.init(project="final")
 
 
 

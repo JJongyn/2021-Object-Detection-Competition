@@ -14,7 +14,7 @@ from os.path import join
 import sys
 
 ## coco classes
-YOLO_CLASSES = ('Vehicle', 'Pedestrian', 'Vehicle_Car','Vehicle_Motorcycle', 'Vehicle_Bus', 'Vehicle_Unknown', 'TrafficLight', 'TrafficSign')
+YOLO_CLASSES = ('Vehicle', 'Pedestrian', 'TrafficLight', 'TrafficSign')
 
 
 width = 1920
@@ -61,7 +61,7 @@ def xml_transform(classes):
         target = (annopath % img_id)
         print("target : ", target)
         if os.path.exists(target):
-            label_norm= np.loadtxt(target).reshape(-1, 5)
+            label_norm= np.loadtxt(target).reshape(-1, 6)
             print("label_norm : ", label_norm)
 
             for i in range(len(label_norm)):
@@ -87,8 +87,8 @@ def xml_transform(classes):
                 node_ymax = SubElement(node_bndbox, 'ymax')
                 node_ymax.text = str(new_label[4])
 
-                #node_confidence = SubElement(node_object, 'confidence')
-                #node_confidence.text = str(labels_conv[5])
+                node_confidence = SubElement(node_object, 'confidence')
+                node_confidence.text = str(labels_conv[5])
 
                 xml = tostring(node_root, pretty_print=True)
                 dom = parseString(xml)

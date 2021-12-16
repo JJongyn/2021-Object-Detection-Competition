@@ -1,0 +1,32 @@
+<annotation>
+  <object>
+    <name>Vehicle</name>
+    <bndbox>
+      <xmin>760</xmin>
+      <ymin>542</ymin>
+      <xmax>778</xmax>
+      <ymax>570</ymax>
+    </bndbox>
+    <confidence>0.398277</confidence>
+  </object>
+  <object>
+    <name>Vehicle</name>
+    <bndbox>
+      <xmin>796</xmin>
+      <ymin>525</ymin>
+      <xmax>827</xmax>
+      <ymax>548</ymax>
+    </bndbox>
+    <confidence>0.554278</confidence>
+  </object>
+  <object>
+    <name>TrafficLight</name>
+    <bndbox>
+      <xmin>761</xmin>
+      <ymin>335</ymin>
+      <xmax>819</xmax>
+      <ymax>352</ymax>
+    </bndbox>
+    <confidence>0.792096</confidence>
+  </object>
+</annotation>

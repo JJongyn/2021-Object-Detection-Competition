@@ -1,0 +1,22 @@
+<annotation>
+  <object>
+    <name>Vehicle</name>
+    <bndbox>
+      <xmin>1048</xmin>
+      <ymin>536</ymin>
+      <xmax>1144</xmax>
+      <ymax>614</ymax>
+    </bndbox>
+    <confidence>0.945123</confidence>
+  </object>
+  <object>
+    <name>Vehicle</name>
+    <bndbox>
+      <xmin>1234</xmin>
+      <ymin>528</ymin>
+      <xmax>1484</xmax>
+      <ymax>694</ymax>
+    </bndbox>
+    <confidence>0.968368</confidence>
+  </object>
+</annotation>

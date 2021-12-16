@@ -18,8 +18,8 @@ modify1 = {
     "14": "3"
 }
 
-path = './1/'
-path2 = './2/'
+path = './pre_txt/'
+path2 = './convert_txt/'
 file_list = os.listdir(path)
 
 print('FILE CNT : {}'.format(len(file_list)))

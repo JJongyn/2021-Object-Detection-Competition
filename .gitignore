@@ -1,8 +1,6 @@
 *.jpg
-*.txt
 *.zip
 *.tar.gz
-*.txt
 *.cache
 *.pt
 /coco
