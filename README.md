@@ -1,4 +1,3 @@
-# 2021_Object_Detection_Foscar
 
 # 학습 재현 # (40000장 epoch : 19번 학습 완료)  
 ```
@@ -19,17 +18,14 @@ python inference.py --data 'data/dataset.yaml' --weights 'runs/train/final/weigh
 cd yolov5 
 bash inference.sh
 ```
+
+## Precision Recall Curve
+![PR_curve](https://user-images.githubusercontent.com/92678942/146409098-08676301-3247-4dbb-b783-fffe9af6f992.png)
+
 ## labeled img 
 ![label1](https://user-images.githubusercontent.com/92678942/146318234-31dc3d79-8ab9-4c94-b2a5-40d40bacec40.png)
 ## predicted img
 ![pred1](https://user-images.githubusercontent.com/92678942/146318252-62e1736f-a055-47d6-8435-a7600f44c7a0.png)
-
-## Precision Recall Curve
-![PR_curve](https://user-images.githubusercontent.com/92678942/146318303-fe363033-c793-4116-ab8c-845607efe29b.png)
-
-
-
-
 
 
 ## 1. jpg와 txt파일명을 맞추기 위한 코드로 이미지가 들어있는 폴더에서 실행 ##
