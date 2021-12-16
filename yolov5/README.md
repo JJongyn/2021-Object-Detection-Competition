@@ -10,7 +10,7 @@ python3 convert2Yolo.py
 python3 example.py --voc --img_path '이미지 경로' --label 'xml 경로' --convert_output_path ./ --img_type ".jpg" --manifest_path ./ --cls_list_file names.txt 
 ```
 
-### 3. Class reduction ( 4 classes : Vehicle, Pedestrian, Traffic_Light, Traffice_Sign) ###
+### 3. Class reduction ( 4 classes : Vehicle, Pedestrian, Traffic_Light, Traffic_Sign) ###
 ```
 cd ~/yolov5/conver2class
 python3 retext.py
