@@ -1,5 +1,5 @@
 
-# 학습 재현 # (40000장 epoch : 19번 학습 완료)  
+# 학습 재현  (40000장 epoch : 19번 학습 완료) #
 ```
 cd yolov5 
 python train.py --img 1280 --batch 4 --epochs 19 --data 'data/dataset_train.yaml' --cfg 'models/yolov5m.yaml' --weights best.pt --device 0
