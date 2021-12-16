@@ -5,16 +5,16 @@ cd yolov5
 python train.py --img 1280 --batch 4 --epochs 19 --data 'data/dataset_train.yaml' --cfg 'models/yolov5m.yaml' --weights best.pt --device 0
 ```
 # 결과 재현 #
+## [mAP 측정] ##
 ```
-[mAP 측정]
 cd yolov5/data/test
 #해당 경로에 test img, 변환된 txt 추가후에
 cd yolov5
 python inference.py --data 'data/dataset.yaml' --weights best.pt --verbose --imgsz 1280 --task test --conf-thres 0.25 --device 0
 #/yolov5/runs/val/exp* [경로]에서 PR_curve.png 확인
 ```
+## [결과 XML 변환] ##
 ```
-[결과 XML 변환]
 cd yolov5 
 bash inference.sh
 ```
