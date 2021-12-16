@@ -1,5 +1,4 @@
 
-
 ### 1. jpg와 txt파일명을 맞추기 위한 코드로 이미지가 들어있는 폴더에서 실행 ###
 ``` for f in *.jpg; do mv -- "$f" "${f%.jpg}_v001_1.jpg"; done; ```
 
@@ -11,7 +10,7 @@ python3 convert2Yolo.py
 python3 example.py --voc --img_path '이미지 경로' --label 'xml 경로' --convert_output_path ./ --img_type ".jpg" --manifest_path ./ --cls_list_file names.txt 
 ```
 
-### 3. Class reduction(Vehicle, Pedestrian, Traffic_Light, Traffice_Sign) ###
+### 3. Class reduction ( 4 classes : Vehicle, Pedestrian, Traffic_Light, Traffice_Sign) ###
 ```
 cd ~/yolov5/conver2class
 python3 retext.py
