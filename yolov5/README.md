@@ -16,12 +16,12 @@ cd ~/yolov5/conver2class
 python3 retext.py
 ```
 
-## 4.학습 재현 ##
+### 4.학습 재현 ###
 ```
 cd yolov5 
 python train.py --img 1280 --batch 4 --epochs 19 --data 'data/dataset_train.yaml' --cfg 'models/yolov5m.yaml' --weights best.pt --device 0
 ```
-## 5.결과 재현 ##
+### 5.결과 재현 ###
 #### [mAP 측정] ####
 ```
 cd yolov5/data/test
