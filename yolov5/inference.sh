@@ -1,6 +1,6 @@
 #!bin/bash
 
-for file1 in ~/2021-Foscar_Object_Detection/참가팀_평가용데이터/*
+for file1 in ~/2021_Object_Detection_Foscar/참가팀_평가용데이터/*
 do
   for file2 in $file1/*
   do
@@ -19,7 +19,7 @@ done
 
 echo "        "
 
-for file1 in ~/2021-Foscar_Object_Detection/참가팀_평가용데이터/*
+for file1 in ~/2021_Object_Detection_Foscar/참가팀_평가용데이터/*
 do
   for file2 in $file1/*
   do
