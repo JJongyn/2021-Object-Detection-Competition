@@ -32,4 +32,3 @@ bash inference.sh
 ![pred1](https://user-images.githubusercontent.com/92678942/146318252-62e1736f-a055-47d6-8435-a7600f44c7a0.png)
 
 
-
