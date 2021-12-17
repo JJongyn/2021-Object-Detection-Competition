@@ -26,6 +26,8 @@ python inference.py --data 'data/dataset.yaml' --weights best.pt --verbose --img
 #/yolov5/runs/val/exp* [경로]에서 PR_curve.png 확인
 ```
 ### [결과 XML 변환] ###
+inference.sh안 경로를 변경해주세요.
+참가팀_평가용데이터/폴더1/폴더2/이미지.jpg
 ```
 cd yolov5 
 bash inference.sh
