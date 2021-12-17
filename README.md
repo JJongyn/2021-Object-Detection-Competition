@@ -15,7 +15,7 @@ python train.py --img 1280 --batch 4 --epochs 19 --data 'data/dataset_train.yaml
 ### [학습 모델 검증] ###
 학습된 모델에 대해 평가하는 코드입니다. --source 경로 부분에 test하고자 하는 이미지를 넣어주세요.
 ```
-python3 detect2.py --weights best.pt --img 1280 --iou-thres 0.6 --source /home/foscar/detection/yolov5/data/test --save-txt --exist-ok --save-conf --view-img
+python3 detect2.py --weights best.pt --img 1280 --iou-thres 0.6 --source ~/2021_Object_Detection_Foscar/yolov5/data/test --save-txt --exist-ok --save-conf --view-img
 ```
 ### [mAP 측정] ###
 ```
