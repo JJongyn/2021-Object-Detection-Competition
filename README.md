@@ -5,8 +5,9 @@
 
 
 ## 학습 재현  (40000장 epoch : 19번 학습 완료) ##
-이미지 파일 -> data/images/train, valid  
-yoloform txt 파일 -> data/labels train, valid
+학습을 위한 이미지, txt파일을 넣어주세요.
+- 이미지 파일 -> data/images/train, valid  
+- yoloform txt 파일 -> data/labels train, valid
 ```
 cd yolov5 
 python train.py --img 1280 --batch 4 --epochs 19 --data 'data/dataset_train.yaml' --cfg 'models/yolov5m.yaml' --weights best.pt --device 0
