@@ -1,4 +1,4 @@
-## yolo txt 파일 -> xml 형식 (v_001_1.xml)
+## (추가)yolo txt 파일 -> xml 형식 (v_001_1.xml)
 ```
 pytho yolo2voc2.py 'txt파일 경로'
 
