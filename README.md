@@ -1,3 +1,8 @@
+## yolo txt 파일 -> xml 형식 (v_001_1.xml)
+```
+pytho yolo2voc2.py 'txt파일 경로'
+
+```
 # 2021 자율주행영상 객체 검출 경진대회 #
 
 
