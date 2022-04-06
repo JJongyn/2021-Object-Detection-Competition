@@ -45,5 +45,5 @@ bash inference.sh
 ![label1](https://user-images.githubusercontent.com/92678942/146318234-31dc3d79-8ab9-4c94-b2a5-40d40bacec40.png)
 ### Predicted image ###
 ![pred1](https://user-images.githubusercontent.com/92678942/146318252-62e1736f-a055-47d6-8435-a7600f44c7a0.png)
-
+ 
 
