@@ -52,7 +52,6 @@ bash inference.sh
 ### Yolo_txt to XML(v_001_1.xml) ###
 ```
 python yolo2voc2.py 'yolo txt path'
-
 ```
 
 ## 1st prize ##
