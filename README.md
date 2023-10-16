@@ -5,10 +5,10 @@
 - 주관 : 산업통상자원부, 한국자동차연구원
 - [Facts and Figures, Click it!](https://jjongyn.notion.site/24eb868be91844f7a153a3aedf1dc24a)
 ### Our Team ###
-- **국민대학교 전자공학부 신종윤 (팀장)**
-- 국민대학교 기계공학부 명재용
-- 국민대학교 자동차융합대학 태관호
-- 국민대학교 자동차융합대학 오해인
+- **신종윤 (팀장)**
+- 명재용
+- 태관호
+- 오해인
 
 ## Requirements 
 - Python >= 3.7.0 
